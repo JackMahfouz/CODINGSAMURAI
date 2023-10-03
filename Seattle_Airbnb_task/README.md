@@ -10,3 +10,10 @@
     2.8. Correlation Analysis<br>
     2.9. Data Insights<br>
 3. work all done by Jack M. Isaac <a href='jackmahfouz766@gmail.com' target='_blank'>jackmahfouz766@gmail.com </a>
+4. Data Insights:
+    4.1. Broadway is the most visited<br>
+    3.2. Roxhill is the least visited<br>
+    4.3. most people prefere appartment and houses<br>
+    4.4. there is heigh variance in prices<br>
+    4.5. price is mostly correlated linearly with host_listing_count and reviews_per_month<br>
+    4.6. price gets heigher with time<br>
